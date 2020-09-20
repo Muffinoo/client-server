@@ -13,3 +13,9 @@ In the terminal log in as root and used the sample.sql file included in this rep
 mysql -u root
 mysql> source sample.sql;
 ```
+
+## Seznam technologií
+
+1. Node.js
+2. React (webový framework)
+3. XAMPP (....)
