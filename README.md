@@ -1,7 +1,7 @@
 # Aplikace Client-Server
 Client-Server apllication with React and Node.js
 
-## Getting this App up and running
+## 1. Postup instalace a spuštění aplikace (Getting this App up and running)
 
 1. Clone this repository:
 
@@ -14,7 +14,7 @@ mysql -u root
 mysql> source sample.sql;
 ```
 
-## Seznam technologií
+## 2. Seznam technologií
 
 1. Node.js
 2. React (webový framework)
