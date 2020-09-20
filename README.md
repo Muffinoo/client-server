@@ -1,5 +1,6 @@
 # Aplikace Client-Server
 Client-Server apllication with React and Node.js
+https://codeforgeek.com/nodejs-mysql-tutorial/
 
 ## 1. Postup instalace a spuštění aplikace (Getting this App up and running)
 
