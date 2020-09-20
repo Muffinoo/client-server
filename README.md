@@ -21,3 +21,4 @@ mysql> source sample.sql;
 1. Node.js
 2. React (webový framework)
 3. XAMPP (....)
+[homepage]: http://contributor-covenant.org
