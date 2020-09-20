@@ -24,7 +24,6 @@ Základní technologie použité při vývoji aplikace:
 2. Node.js (back-end)
 3. MySQL, resp. MariaDB (databáze)
 
-
 Kromě těchto základních technologií byly při vývoji použity následující technologie, frameworky či vývojové nástroje:
 
 * Bootstrap - framework pro stylování obsahu (CSS) ve front-end části aplikace
