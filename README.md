@@ -18,13 +18,14 @@ mysql> source sample.sql;
 
 ## 2. Seznam použitých technologií
 
-Základní technologie použité při vývoji aplikace jsou:
+Základní technologie použité při vývoji aplikace:
 
 1. React (front-end)
 2. Node.js (back-end)
 3. MySQL, resp. MariaDB (databáze)
 
-Kromě těchto základních technologií byly při vývoji aplikace použity následující technologie, frameworky či vývojové nástroje:
+
+Kromě těchto základních technologií byly při vývoji použity následující technologie, frameworky či vývojové nástroje:
 
 * Bootstrap - framework pro stylování obsahu (CSS) ve front-end části aplikace
 * Git - verzovací systém
