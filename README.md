@@ -14,7 +14,7 @@ mysql -u root
 mysql> source sample.sql;
 ```
 
-## 2. Seznam technologií
+## 2. Seznam použitých technologií
 
 1. Node.js
 2. React (webový framework)
