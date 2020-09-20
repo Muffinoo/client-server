@@ -18,7 +18,8 @@ mysql> source sample.sql;
 
 ## 2. Seznam použitých technologií
 
-1. Node.js
-2. React (webový framework)
-3. XAMPP (....)
-[homepage]: http://contributor-covenant.org
+1. React (front-end)
+2. Node.js (back-end)
+3. MySQL, resp. MariaDB (databáze)
+
+Pro stylování obsahu front-endu byl použit framework Bootstrap.
